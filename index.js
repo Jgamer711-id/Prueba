@@ -1,7 +1,7 @@
 
 const http = require('http')
 
-const notes = [
+let notes = [
     {
       id: 1,
       content: 'HTML is easy y comenta esto',
